@@ -1,0 +1,13 @@
+0.6
+2019.1
+May 24 2019
+14:51:52
+/home/it/CX-203/CX-203-Lab 1/CX-203-Lab 1.sim/sim_1/behav/xsim/glbl.v,1558713910,verilog,,,,glbl,,,,,,,,
+/home/it/CX-203/CX-203-Lab 1/CX-203-Lab 1.srcs/sim_1/new/task1.sv,1731326405,systemVerilog,,,,task1,,,,,,,,
+/home/it/CX-203/CX-203-Lab 1/CX-203-Lab 1.srcs/sim_1/new/task1_test.sv,1731328457,systemVerilog,,,,task1_test,,,,,,,,
+/home/it/CX-203/CX-203-Lab 1/CX-203-Lab 1.srcs/sim_1/new/task3_test.sv,1731331162,systemVerilog,,,,task3_test,,,,,,,,
+/home/it/CX-203/CX-203-Lab 1/CX-203-Lab 1.srcs/sim_1/new/test_andgate.sv,1731324999,systemVerilog,,,,test_andgate,,,,,,,,
+/home/it/CX-203/CX-203-Lab 1/CX-203-Lab 1.srcs/sources_1/new/4-bits.sv,1731323502,systemVerilog,,/home/it/CX-203/CX-203-Lab 1/CX-203-Lab 1.srcs/sources_1/new/andgate.sv,,and4gate,,,,,,,,
+/home/it/CX-203/CX-203-Lab 1/CX-203-Lab 1.srcs/sources_1/new/andgate.sv,1731322189,systemVerilog,,/home/it/CX-203/CX-203-Lab 1/CX-203-Lab 1.srcs/sim_1/new/task1.sv,,andgate,,,,,,,,
+/home/it/CX-203/CX-203-Lab 1/CX-203-Lab 1.srcs/sources_1/new/task2.sv,1731330892,systemVerilog,,/home/it/CX-203/CX-203-Lab 1/CX-203-Lab 1.srcs/sources_1/new/task3.sv,,half_adder,,,,,,,,
+/home/it/CX-203/CX-203-Lab 1/CX-203-Lab 1.srcs/sources_1/new/task3.sv,1731331549,systemVerilog,,/home/it/CX-203/CX-203-Lab 1/CX-203-Lab 1.srcs/sim_1/new/task3_test.sv,,full_adder,,,,,,,,
